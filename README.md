@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Okoliko1
-- 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning Data analysis 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me timothyokoliko@yahoo.com
+Timothy Okoliko
+Data Scientist with expertise in Geospatial Analytics and Remote Sensing.
 
-<!---
-Okoliko1/Okoliko1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in applying machine learning and statistical analysis to satellite and environmental data, with a focus on agriculture and sustainability.
+
+Key areas of work:
+- Predictive modeling for crop health using NDVI and remote sensing data
+- Carbon sequestration estimation models
+- Data pipeline and analytics development for geospatial platforms
+
+Skills:
+Python | Pandas | Scikit-learn | GIS | Remote Sensing | Data Visualization | Excel
+
+Interested in roles and projects at the intersection of Data Science, Climate, and Agriculture.
